@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="HelloWorld">
+    <Basepaths>/hello</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1598548489133</CreatedAt>
+    <CreatedBy>harshadal2020@gmail.com</CreatedBy>
+    <Description>Proxy displays a hello message to the user</Description>
+    <DisplayName>HelloWorld</DisplayName>
+    <LastModifiedAt>1598548489133</LastModifiedAt>
+    <LastModifiedBy>harshadal2020@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:de37fd7de95cdf945c27ce7d08e20e946cfb545fae836e99e85fb201716ca136f343472914d14a07070be7024052d0b27769b3593a9d76d4b99204a0d2d16b16</ManifestVersion>
+    <Policies>
+        <Policy>ResponseCacheCacheHelloMessage</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

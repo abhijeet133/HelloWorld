@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="ResponseCacheCacheHelloMessage" version="SHA-512:0ac938daa9c31e391fc3dec337bcdda22b8601c666c1430b2dc234d4445371a71d8f54c80e9b31a3197b742dbc10959fcfc88e901aff9062586d2ee3fa54cc98"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:90d025671240a580ac10e240d2001e82f44f212d7c50287b3ffa9a08787121ff43bc0376ca904290a9ae791c581b85b4cd563a0a75ad320976dade3da16f1f6b"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:f9a515d3a1ba9c98ff12bd9f2fa9238e32f817d982c4ee17c39d911e11a561129dc12bdcb2ae874593531ce499bf83d42c1596935a8434f38462a0e5131f10ea"/>
+    </TargetEndpoints>
+</Manifest>
